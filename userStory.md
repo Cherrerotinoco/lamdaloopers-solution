@@ -18,8 +18,4 @@ Inside the Chart component, send a request to the endpoint sending the user toke
 After the query is done, send a response with the issues received to the front-client.
 
 # 4. Sort the Issues (S)
-At this moment we are ready to group the data by status (4 groups) and get the total Story points for each group. Then, use props to send the values and render the chart according those values. 
-
-
-
-
+At this moment we are ready to group the data by status (4 groups) and get the total Story points for each group. Then, use props to send the values and render the chart according those values.
